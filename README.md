@@ -59,6 +59,6 @@
 # 🤝🏻 Conecta conmigo
 
 <p align="center">
-<a href="mailto:brandon28vs@gmail.com"><img src="https://img.shields.io/badge/-tucorreo@ejemplo.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:brandon28vs@gmail.com"><img src="https://img.shields.io/badge/-brandon28vs@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/BrandonVizcarraSarmiento"><img src="https://img.shields.io/badge/-GitHub-171515?style=flat&logo=github&logoColor=white"/></a>
 </p>
