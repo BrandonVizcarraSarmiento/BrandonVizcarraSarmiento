@@ -9,7 +9,7 @@
 🌱 Actualmente sigo aprendiendo sobre arquitectura cloud, buenas prácticas y optimización de APIs.  
 🚀 Me gusta trabajar tanto en frontend como backend, integraciones, automatizaciones y despliegues.  
 💬 Escríbeme si deseas conversar sobre proyectos, oportunidades o colaboración.  
-✉️ Correo: **tucorreo@ejemplo.com**  
+✉️ Correo: **brandon28vs@gmail.com**  
 
 ---
 
@@ -39,13 +39,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)
 
-### **Cloud & Arquitectura**
-![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-05122A?style=flat&logo=awslambda)
-![SNS](https://img.shields.io/badge/-SNS-05122A?style=flat&logo=amazon)
-![SQS](https://img.shields.io/badge/-SQS-05122A?style=flat&logo=amazon)
-![API Gateway](https://img.shields.io/badge/-API%20Gateway-05122A?style=flat&logo=amazonapigateway)
-![Crons](https://img.shields.io/badge/-Crons-05122A?style=flat&logo=clockify)
-
 ### **Servicios y APIs**
 ![REST](https://img.shields.io/badge/-REST-05122A?style=flat&logo=api)
 ![APIs Externas](https://img.shields.io/badge/-Integración%20de%20APIs-05122A?style=flat&logo=cloudflare)
@@ -56,8 +49,8 @@
 
 <p align="center">
 <a href="https://github.com/tuUsuario">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuUsuario&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuUsuario&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrandonVizcarraSarmiento&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrandonVizcarraSarmiento&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -66,7 +59,6 @@
 # 🤝🏻 Conecta conmigo
 
 <p align="center">
-<a href="https://www.linkedin.com/in/tuLinkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:tucorreo@ejemplo.com"><img src="https://img.shields.io/badge/-tucorreo@ejemplo.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/tuUsuario"><img src="https://img.shields.io/badge/-GitHub-171515?style=flat&logo=github&logoColor=white"/></a>
+<a href="mailto:brandon28vs@gmail.com"><img src="https://img.shields.io/badge/-tucorreo@ejemplo.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/BrandonVizcarraSarmiento"><img src="https://img.shields.io/badge/-GitHub-171515?style=flat&logo=github&logoColor=white"/></a>
 </p>
